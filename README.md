@@ -1,15 +1,19 @@
 # dro_test
 
-A new Flutter project.
+Created a replica of DRO Health’s pharmacy feature using the codebase architecture and coding pattern (get x and vvmm)
 
-## Getting Started
+_store screen
 
-This project is a starting point for a Flutter application.
+Users should be able to view products
+Users should be able to search for products
+_select drug and add to bags screen
 
-A few resources to get you started if this is your first Flutter project:
+Users should be able to view product detail
+Users should be able to add 1 or more products to bag
+_Bag Screen
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Users should be able to view all the items in their bag
+Users should be able to increase or reduce the quantity of items in their bagter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
